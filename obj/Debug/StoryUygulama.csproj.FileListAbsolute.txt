@@ -1,0 +1,44 @@
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe.config
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Form1.resources
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Properties.Resources.resources
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csproj.GenerateResource.Cache
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Documents\Visual Studio 2015\Projects\EntiytFramework\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe.config
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Form1.resources
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Properties.Resources.resources
+C:\Users\çağdaş halil\Desktop\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csproj.GenerateResource.Cache
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe.config
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Form1.resources
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.GorevliEkle.resources
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Properties.Resources.resources
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csproj.GenerateResource.Cache
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.StoryEkle.resources
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.TaskEkle.resources
+C:\Users\çağdaş halil\Desktop\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.TaskDetay.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe.config
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.exe
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\bin\Debug\StoryUygulama.pdb
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csprojResolveAssemblyReference.cache
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Form1.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.GorevliEkle.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.Properties.Resources.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.StoryEkle.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.TaskDetay.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.TaskEkle.resources
+C:\Users\çağdaş halil\Desktop\DERSLER\Yazılım Yapımı\StoryUygulama\StoryUygulama\obj\Debug\StoryUygulama.csproj.GenerateResource.Cache
